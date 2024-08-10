@@ -7,7 +7,7 @@ userid=''
 userid_verification=[]
 data=''
 
-# MODULE NAMED 'fashion'......
+# MODULE NAMED 'database'......
 
 def invalid_id_corr_trousers():
     try:
