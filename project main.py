@@ -7,7 +7,7 @@ mycursor=conn.cursor()
 userid=''
 userid_verification=[]
 
-'''
+
 def login():
     global data
     global userid
@@ -142,12 +142,12 @@ def welcome():
     else:
         print('Wrong input !!')
         fashion.welcome()
-'''
 
 
-fashion.login()
 
-fashion.welcome()
+database.login()
+
+database.welcome()
 
 
 
